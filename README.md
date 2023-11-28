@@ -3,6 +3,7 @@
 ## Learning Goals
 
 - Define a function that accepts arguments.
+- Argument inform of string
 - Create a default argument.
 - Practice returning a value.
 
